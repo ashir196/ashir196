@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hehehe 👋
 
 <!--
 **ashir196/ashir196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
